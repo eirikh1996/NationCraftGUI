@@ -1,0 +1,13 @@
+name: NationCraftGUI
+main: io.github.eirikh1996.nationcraftgui.bukkit.NationCraftGUI
+version: '${project.version}'
+description: A plugin that adds GUI functionality to NationCraft
+api-version: 1.13
+depend:
+  - NationCraft
+commands:
+  nationcraftgui:
+    description: Base command for NationCraftGUI
+    aliases:
+      - ncgui
+      - ncg

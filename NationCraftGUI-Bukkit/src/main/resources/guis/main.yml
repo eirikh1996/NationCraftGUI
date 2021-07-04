@@ -1,0 +1,9 @@
+defaultItem: DIAMOND
+create:
+  item: FEATHER
+  description: Create a new nation
+  lore:
+    - Creates a new nation with you as leader
+join:
+  item: OAK_DOOR
+  description: Join an existing nation

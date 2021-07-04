@@ -1,0 +1,4 @@
+# Project exclude paths
+/NationCraftGUI-Bukkit/target/
+/NationCraftGUI-Core/target/
+/NationCraftGUI-Sponge/target/
